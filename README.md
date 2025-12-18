@@ -90,7 +90,21 @@ Validateur : processeur qui applique les règles de validation.
 ValidationTest : exemple avec utilisateur valide et invalide.
 ## 🖥️ Example Execution
 
-### TestApp :
+### Exploration des annotations standard :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a3ad0c80-f78a-476f-a549-062710a2cfe7" />
+### Accès aux annotations par réflexion (@Author - @MethodInfo) :
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d64a2bca-503d-494b-9847-d5d3f486de7b" />
+### Traitement d'annotations répétables (@Bug) :
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3b65de3a-1d30-4f57-be9d-46eef7869d6f" />
+### Test de la validation (@Length - @NotNull - @Range):
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b0a75b6a-8b10-45cc-bb63-ce0912d19d01" />
+### Annotation pour la journalisation (@Loggable):
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/07ee6e79-d6d3-4c26-a1ac-d3affa99e353" />
+### Annotation pour la sécurité (@RequiresRole) :
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3dc7ae1e-9958-42f0-a662-27955b41efc5" />
+### Annotation pour la configuration (@ConfigValue) :
+- <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f19bae71-6649-4fa8-9275-f8594643ffcf" />
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/90c2d204-758e-4a85-8f4a-9954d69727ef" />
 
 ## 💡 Concepts Practiced
 
